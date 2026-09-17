@@ -1,0 +1,3762 @@
+{
+  "questionBankVersion": "2.0",
+  "randomization": {
+    "enabled": true,
+    "avoidRecent": true,
+    "serverAllocationReady": true
+  },
+  "questions": [
+    {
+      "id": "RS-01",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Safety First",
+      "topicHi": "सुरक्षा सर्वोपरि",
+      "question": {
+        "en": "What is the central safety message at the beginning of the module?",
+        "hi": "प्रशिक्षण मॉड्यूल की शुरुआत में मुख्य सुरक्षा संदेश क्या है?"
+      },
+      "options": {
+        "en": [
+          "Road safety is paramount",
+          "Speed is paramount",
+          "Fuel saving is paramount",
+          "Overtaking is paramount"
+        ],
+        "hi": [
+          "सड़क सुरक्षा सर्वोपरि है",
+          "गति सर्वोपरि है",
+          "ईंधन बचत सर्वोपरि है",
+          "ओवरटेकिंग सर्वोपरि है"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module states that road safety is paramount.",
+        "hi": "मॉड्यूल में स्पष्ट रूप से कहा गया है कि सड़क सुरक्षा सर्वोपरि है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 5,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-02",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Shared Responsibility",
+      "topicHi": "साझी जिम्मेदारी",
+      "question": {
+        "en": "Whose safety does the driver need to consider while driving?",
+        "hi": "ड्राइविंग करते समय चालक को किसकी सुरक्षा का ध्यान रखना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Only the driver",
+          "Only passengers",
+          "The driver and other road users",
+          "Only vehicles behind"
+        ],
+        "hi": [
+          "केवल चालक की",
+          "केवल यात्रियों की",
+          "चालक और अन्य सड़क उपयोगकर्ताओं की",
+          "केवल पीछे चल रहे वाहनों की"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The module connects safe driving with the safety of other road users.",
+        "hi": "मॉड्यूल सुरक्षित ड्राइविंग को चालक और अन्य सड़क उपयोगकर्ताओं की सुरक्षा से जोड़ता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 6,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-03",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Footwear",
+      "topicHi": "जूते/पादत्राण",
+      "question": {
+        "en": "Which footwear does the module tell the driver to avoid?",
+        "hi": "मॉड्यूल चालक को किस प्रकार के पादत्राण से बचने के लिए कहता है?"
+      },
+      "options": {
+        "en": [
+          "Safety shoes",
+          "Sports shoes",
+          "Chappals",
+          "Closed shoes"
+        ],
+        "hi": [
+          "सेफ्टी शूज़",
+          "स्पोर्ट्स शूज़",
+          "चप्पल",
+          "बंद जूते"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The module warns that chappals can slip and do not provide proper grip, especially when wet.",
+        "hi": "मॉड्यूल के अनुसार चप्पल फिसल सकती है और विशेषकर गीली होने पर उचित पकड़ नहीं देती।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 8,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-04",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Seat Belt",
+      "topicHi": "सीट बेल्ट",
+      "question": {
+        "en": "When should the driver wear the seat belt?",
+        "hi": "सीट बेल्ट कब पहननी चाहिए?"
+      },
+      "options": {
+        "en": [
+          "After starting the vehicle",
+          "Before driving the vehicle",
+          "Only on highways",
+          "Only at night"
+        ],
+        "hi": [
+          "वाहन स्टार्ट करने के बाद",
+          "वाहन चलाने से पहले",
+          "केवल हाईवे पर",
+          "केवल रात में"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The training instructs the driver to wear the seat belt before driving.",
+        "hi": "प्रशिक्षण में वाहन चलाने से पहले सीट बेल्ट पहनने के लिए कहा गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 9,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-05",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Seat Belt",
+      "topicHi": "सीट बेल्ट",
+      "question": {
+        "en": "The module illustrates the seat belt as protection during which situations?",
+        "hi": "मॉड्यूल सीट बेल्ट को किन परिस्थितियों में सुरक्षा से जोड़कर दिखाता है?"
+      },
+      "options": {
+        "en": [
+          "Frontal collision and vehicle toppling",
+          "Only parking",
+          "Only tyre puncture",
+          "Only engine overheating"
+        ],
+        "hi": [
+          "सामने से टक्कर और वाहन पलटने की स्थिति",
+          "केवल पार्किंग",
+          "केवल टायर पंचर",
+          "केवल इंजन ओवरहीटिंग"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source shows seat-belt protection in frontal collision and vehicle toppling.",
+        "hi": "स्रोत में सामने से टक्कर और वाहन पलटने की स्थिति में सीट बेल्ट की सुरक्षा दिखाई गई है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 9,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "RS-06",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Mobile Phone",
+      "topicHi": "मोबाइल फोन",
+      "question": {
+        "en": "What should a driver do regarding mobile-phone use while driving?",
+        "hi": "ड्राइविंग करते समय मोबाइल फोन के बारे में क्या करना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Use it whenever traffic is light",
+          "Avoid using it and concentrate on the road",
+          "Hold it below the steering wheel",
+          "Use it only while overtaking"
+        ],
+        "hi": [
+          "जब ट्रैफिक कम हो तब इस्तेमाल करें",
+          "मोबाइल का उपयोग न करें और सड़क पर ध्यान केंद्रित रखें",
+          "स्टीयरिंग के नीचे पकड़कर रखें",
+          "केवल ओवरटेकिंग के समय इस्तेमाल करें"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The module warns about mobile-phone distraction and asks the driver to look at the road ahead.",
+        "hi": "मॉड्यूल मोबाइल फोन से होने वाले ध्यान भटकाव के बारे में चेतावनी देता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 10,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-07",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Mobile Phone",
+      "topicHi": "मोबाइल फोन",
+      "question": {
+        "en": "A driver hears a phone notification while the vehicle is moving. What action matches the training?",
+        "hi": "वाहन चलाते समय फोन पर नोटिफिकेशन आता है। प्रशिक्षण के अनुसार क्या करना उचित है?"
+      },
+      "options": {
+        "en": [
+          "Read it immediately",
+          "Ignore the phone and continue focusing on the road",
+          "Answer while changing lanes",
+          "Check it at high speed"
+        ],
+        "hi": [
+          "तुरंत पढ़ें",
+          "फोन को अनदेखा करके सड़क पर ध्यान रखें",
+          "लेन बदलते हुए जवाब दें",
+          "तेज़ गति पर फोन देखें"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The training material treats mobile-phone use while driving as a distraction.",
+        "hi": "प्रशिक्षण सामग्री ड्राइविंग के दौरान मोबाइल फोन को ध्यान भटकाने वाला मानती है।"
+      },
+      "type": "Scenario",
+      "marks": 5,
+      "sourcePage": 10,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "RS-08",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Drink & Drive",
+      "topicHi": "शराब पीकर वाहन चलाना",
+      "question": {
+        "en": "What is the training rule regarding alcohol and driving?",
+        "hi": "शराब और ड्राइविंग के बारे में प्रशिक्षण का नियम क्या है?"
+      },
+      "options": {
+        "en": [
+          "Drink only on empty roads",
+          "Never mix drink and drive",
+          "Drive slowly after drinking",
+          "Drink only during daytime"
+        ],
+        "hi": [
+          "खाली सड़क पर ही शराब पीकर चलाएँ",
+          "शराब और ड्राइविंग को कभी न मिलाएँ",
+          "शराब के बाद धीरे चलाएँ",
+          "केवल दिन में शराब पीकर चलाएँ"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The source explicitly warns against mixing drinking and driving.",
+        "hi": "स्रोत में स्पष्ट रूप से शराब पीकर वाहन चलाने से मना किया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 12,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-09",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "High Beam",
+      "topicHi": "हाई बीम",
+      "question": {
+        "en": "What precaution does the module give for high-beam use at night?",
+        "hi": "रात में हाई बीम के उपयोग के लिए क्या सावधानी दी गई है?"
+      },
+      "options": {
+        "en": [
+          "Use it continuously",
+          "Use it cautiously",
+          "Use it only in cities",
+          "Use it during every overtaking manoeuvre"
+        ],
+        "hi": [
+          "इसे लगातार इस्तेमाल करें",
+          "सावधानी से इस्तेमाल करें",
+          "केवल शहर में इस्तेमाल करें",
+          "हर ओवरटेकिंग में इस्तेमाल करें"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The module says to be cautious while using high beam.",
+        "hi": "मॉड्यूल हाई बीम का उपयोग सावधानी से करने के लिए कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 14,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-10",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Overtaking",
+      "topicHi": "ओवरटेकिंग",
+      "question": {
+        "en": "Which driving practice is specifically discouraged?",
+        "hi": "किस ड्राइविंग व्यवहार से विशेष रूप से बचने के लिए कहा गया है?"
+      },
+      "options": {
+        "en": [
+          "Mirror checking",
+          "Dangerous overtaking",
+          "Lane discipline",
+          "Controlled overtaking"
+        ],
+        "hi": [
+          "मिरर चेक करना",
+          "खतरनाक ओवरटेकिंग",
+          "लेन अनुशासन",
+          "नियंत्रित ओवरटेकिंग"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Dangerous overtaking is explicitly listed as a practice to avoid.",
+        "hi": "खतरनाक ओवरटेकिंग को स्पष्ट रूप से बचने योग्य व्यवहार बताया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 15,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-11",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Hazard Lights",
+      "topicHi": "हैज़र्ड लाइट",
+      "question": {
+        "en": "When does the module say hazard lights should be used?",
+        "hi": "मॉड्यूल के अनुसार हैज़र्ड लाइट कब इस्तेमाल करनी चाहिए?"
+      },
+      "options": {
+        "en": [
+          "For every turn",
+          "For a wrongly parked vehicle or a road emergency",
+          "Whenever fuel is low",
+          "Only during overtaking"
+        ],
+        "hi": [
+          "हर मोड़ पर",
+          "गलत जगह पार्क किए वाहन या सड़क पर आपातकाल की स्थिति में",
+          "हर बार ईंधन कम होने पर",
+          "केवल ओवरटेकिंग के दौरान"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "These two situations are specified in the source.",
+        "hi": "स्रोत में गलत तरीके से पार्क वाहन या सड़क आपातकाल के लिए हैज़र्ड लाइट बताई गई है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 16,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "RS-12",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Hazard Lights",
+      "topicHi": "हैज़र्ड लाइट",
+      "question": {
+        "en": "A vehicle is stopped because of a road emergency. Which warning function is covered by the module?",
+        "hi": "वाहन सड़क पर आपातकाल के कारण रुका है। कौन-सी चेतावनी व्यवस्था मॉड्यूल में बताई गई है?"
+      },
+      "options": {
+        "en": [
+          "Hazard lights",
+          "High beam only",
+          "Cabin lamp",
+          "Fog lamp only"
+        ],
+        "hi": [
+          "हैज़र्ड लाइट",
+          "केवल हाई बीम",
+          "कैबिन लैंप",
+          "केवल फॉग लैंप"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module specifies hazard lights for a road emergency.",
+        "hi": "मॉड्यूल सड़क आपातकाल के लिए हैज़र्ड लाइट के उपयोग को बताता है।"
+      },
+      "type": "Scenario",
+      "marks": 5,
+      "sourcePage": 16,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-13",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Rash Driving",
+      "topicHi": "लापरवाह/तेज़ ड्राइविंग",
+      "question": {
+        "en": "Which behaviour does the module explicitly tell drivers not to indulge in?",
+        "hi": "मॉड्यूल चालक को किस व्यवहार से बचने के लिए कहता है?"
+      },
+      "options": {
+        "en": [
+          "Smooth driving",
+          "Rash driving",
+          "Controlled braking",
+          "Safe overtaking"
+        ],
+        "hi": [
+          "स्मूथ ड्राइविंग",
+          "लापरवाह/तेज़ ड्राइविंग",
+          "नियंत्रित ब्रेकिंग",
+          "सुरक्षित ओवरटेकिंग"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Rash driving is specifically identified as a behaviour to avoid.",
+        "hi": "लापरवाह ड्राइविंग से बचने को स्पष्ट रूप से कहा गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 17,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "RS-14",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Accident Awareness",
+      "topicHi": "दुर्घटना जागरूकता",
+      "question": {
+        "en": "Which road-safety factor is highlighted in the module's accident information?",
+        "hi": "मॉड्यूल की दुर्घटना संबंधी जानकारी में किस सड़क-सुरक्षा कारक को प्रमुखता से दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Over speeding",
+          "Low DEF",
+          "Low battery voltage",
+          "Tyre rotation"
+        ],
+        "hi": [
+          "ओवरस्पीडिंग",
+          "कम DEF",
+          "कम बैटरी वोल्टेज",
+          "टायर रोटेशन"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module presents over speeding in its accident/fatality information.",
+        "hi": "मॉड्यूल की दुर्घटना/मृत्यु संबंधी जानकारी में ओवरस्पीडिंग को दिखाया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 6,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "RS-15",
+      "module": "Road Safety",
+      "moduleHi": "सड़क सुरक्षा",
+      "topic": "Safety Message",
+      "topicHi": "Safety Message",
+      "question": {
+        "en": "What does the module say can be avoided by following road-safety precautions?",
+        "hi": "सड़क सुरक्षा सावधानियों का पालन करने से किसे टाला जा सकता है?"
+      },
+      "options": {
+        "en": [
+          "Accidents",
+          "Scheduled service",
+          "Fuel filling",
+          "Tyre rotation"
+        ],
+        "hi": [
+          "दुर्घटनाएँ",
+          "निर्धारित सर्विस",
+          "ईंधन भरना",
+          "टायर रोटेशन"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source states that accidents can be avoided with precautions.",
+        "hi": "स्रोत में बताया गया है कि सावधानियों से दुर्घटनाओं को टाला जा सकता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 6,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-01",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Categories",
+      "topicHi": "श्रेणियाँ",
+      "question": {
+        "en": "Which sign category is used for prohibiting or restricting an action?",
+        "hi": "किस प्रकार के संकेत किसी कार्य को प्रतिबंधित या सीमित करते हैं?"
+      },
+      "options": {
+        "en": [
+          "Information",
+          "Cautionary",
+          "Prohibitory",
+          "Compulsory"
+        ],
+        "hi": [
+          "सूचनात्मक",
+          "सावधानीसूचक",
+          "निषेधात्मक",
+          "अनिवार्य"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The module has a separate Prohibitory Signs category.",
+        "hi": "मॉड्यूल में Prohibitory Signs को अलग श्रेणी के रूप में दिया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 24,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-02",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Categories",
+      "topicHi": "श्रेणियाँ",
+      "question": {
+        "en": "Which category tells the driver that an action is compulsory?",
+        "hi": "कौन-सी संकेत श्रेणी बताती है कि कोई कार्य करना अनिवार्य है?"
+      },
+      "options": {
+        "en": [
+          "Compulsory",
+          "Information",
+          "Cautionary",
+          "Prohibitory"
+        ],
+        "hi": [
+          "अनिवार्य",
+          "सूचनात्मक",
+          "सावधानीसूचक",
+          "निषेधात्मक"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module identifies Compulsory Signs separately.",
+        "hi": "मॉड्यूल में Compulsory Signs को अलग श्रेणी के रूप में दिया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 25,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-03",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Categories",
+      "topicHi": "श्रेणियाँ",
+      "question": {
+        "en": "Which category is intended to caution the driver?",
+        "hi": "कौन-सी संकेत श्रेणी चालक को सावधान करती है?"
+      },
+      "options": {
+        "en": [
+          "Information",
+          "Cautionary",
+          "Compulsory",
+          "Prohibitory"
+        ],
+        "hi": [
+          "सूचनात्मक",
+          "सावधानीसूचक",
+          "अनिवार्य",
+          "निषेधात्मक"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The module identifies Cautionary Signs as a sign category.",
+        "hi": "मॉड्यूल में Cautionary Signs को अलग श्रेणी के रूप में दिया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 25,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-04",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Categories",
+      "topicHi": "श्रेणियाँ",
+      "question": {
+        "en": "Which category provides information to road users?",
+        "hi": "कौन-सी संकेत श्रेणी सड़क उपयोगकर्ताओं को जानकारी देती है?"
+      },
+      "options": {
+        "en": [
+          "Information",
+          "Compulsory",
+          "Prohibitory",
+          "Cautionary"
+        ],
+        "hi": [
+          "सूचनात्मक",
+          "अनिवार्य",
+          "निषेधात्मक",
+          "सावधानीसूचक"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Information Signs are included as a separate category.",
+        "hi": "मॉड्यूल में Information Signs को अलग श्रेणी के रूप में दिया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 25,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-05",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Image Identification",
+      "topicHi": "Image Identification",
+      "question": {
+        "en": "The red triangular group shown in the module belongs to which category?",
+        "hi": "मॉड्यूल में दिखाए गए लाल त्रिकोण वाले संकेत किस श्रेणी में आते हैं?"
+      },
+      "options": {
+        "en": [
+          "Information",
+          "Compulsory",
+          "Cautionary",
+          "Prohibitory"
+        ],
+        "hi": [
+          "सूचनात्मक",
+          "अनिवार्य",
+          "सावधानीसूचक",
+          "निषेधात्मक"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The red triangular group is presented under Cautionary Signs.",
+        "hi": "लाल त्रिकोण वाले संकेत Cautionary Signs के अंतर्गत दिखाए गए हैं।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 25,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-06",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Image Identification",
+      "topicHi": "Image Identification",
+      "question": {
+        "en": "The blue circular group shown in the module belongs to which category?",
+        "hi": "मॉड्यूल में दिखाए गए नीले गोल संकेत किस श्रेणी में आते हैं?"
+      },
+      "options": {
+        "en": [
+          "Compulsory",
+          "Information",
+          "Cautionary",
+          "Prohibitory"
+        ],
+        "hi": [
+          "अनिवार्य",
+          "सूचनात्मक",
+          "सावधानीसूचक",
+          "निषेधात्मक"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The blue circular group is presented under Compulsory Signs.",
+        "hi": "नीले गोल संकेत Compulsory Signs के अंतर्गत दिखाए गए हैं।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 25,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-07",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Lane Discipline",
+      "topicHi": "लेन अनुशासन",
+      "question": {
+        "en": "Which topic is covered on the lane-marking page?",
+        "hi": "लेन मार्किंग वाले पेज पर कौन-सा विषय शामिल है?"
+      },
+      "options": {
+        "en": [
+          "Lane marking and driving discipline",
+          "DEF filling",
+          "Battery cut-off",
+          "Engine oil"
+        ],
+        "hi": [
+          "लेन मार्किंग और ड्राइविंग अनुशासन",
+          "DEF भरना",
+          "बैटरी कट-ऑफ",
+          "इंजन ऑयल"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The page is titled Lane Marking and Driving Discipline.",
+        "hi": "पेज लेन मार्किंग और ड्राइविंग अनुशासन पर केंद्रित है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 26,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-08",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Expressway",
+      "topicHi": "एक्सप्रेसवे",
+      "question": {
+        "en": "Which lane is identified as the slow-speed lane in the 6-lane expressway illustration?",
+        "hi": "6-लेन एक्सप्रेसवे के चित्र में कौन-सी लेन धीमी गति के लिए दिखाई गई है?"
+      },
+      "options": {
+        "en": [
+          "Slow Speed Lane",
+          "High Speed Lane",
+          "Overtaking Lane",
+          "Parking Lane"
+        ],
+        "hi": [
+          "Slow Speed Lane",
+          "High Speed Lane",
+          "Overtaking Lane",
+          "Parking Lane"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The illustration labels a Slow Speed Lane.",
+        "hi": "चित्र में Slow Speed Lane स्पष्ट रूप से दी गई है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 27,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-09",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Expressway",
+      "topicHi": "एक्सप्रेसवे",
+      "question": {
+        "en": "Which lane is identified as the high-speed/overtaking lane?",
+        "hi": "कौन-सी लेन हाई-स्पीड/ओवरटेकिंग लेन के रूप में दिखाई गई है?"
+      },
+      "options": {
+        "en": [
+          "Slow Speed Lane",
+          "Medium Speed Lane",
+          "High Speed Lane / Overtaking Lane",
+          "Emergency Lane"
+        ],
+        "hi": [
+          "Slow Speed Lane",
+          "Medium Speed Lane",
+          "High Speed Lane / Overtaking Lane",
+          "Emergency Lane"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The illustration labels the high-speed/overtaking lane.",
+        "hi": "चित्र में High Speed/O​vertaking Lane दी गई है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 27,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-10",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Expressway",
+      "topicHi": "एक्सप्रेसवे",
+      "question": {
+        "en": "Which three speed-based lane groups are shown in the 6-lane expressway illustration?",
+        "hi": "6-लेन एक्सप्रेसवे चित्र में गति के आधार पर कौन-सी तीन लेन दिखाई गई हैं?"
+      },
+      "options": {
+        "en": [
+          "Slow, medium and high speed/overtaking",
+          "Left, right and parking",
+          "Truck, bus and car",
+          "Entry, exit and service"
+        ],
+        "hi": [
+          "Slow, Medium और High Speed/Overtaking",
+          "Left, Right और Parking",
+          "Truck, Bus और Car",
+          "Entry, Exit और Service"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source illustration shows Slow Speed, Medium Speed and High Speed/Overtaking lanes.",
+        "hi": "स्रोत चित्र में Slow Speed, Medium Speed और High Speed/Overtaking लेन दी गई हैं।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 27,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "SG-11",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Awareness Quiz",
+      "topicHi": "जागरूकता क्विज़",
+      "question": {
+        "en": "What is the purpose of the road-sign quiz mentioned in the module?",
+        "hi": "मॉड्यूल में रोड-साइन क्विज़ का उद्देश्य क्या बताया गया है?"
+      },
+      "options": {
+        "en": [
+          "To raise awareness level",
+          "To calculate fuel economy",
+          "To set the clock",
+          "To check engine oil"
+        ],
+        "hi": [
+          "जागरूकता स्तर बढ़ाना",
+          "ईंधन अर्थव्यवस्था निकालना",
+          "घड़ी सेट करना",
+          "इंजन ऑयल चेक करना"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source describes the quiz as being to raise awareness level.",
+        "hi": "स्रोत इसे सड़क संकेतों के प्रति जागरूकता बढ़ाने वाला क्विज़ बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 23,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "SG-12",
+      "module": "Road Signs",
+      "moduleHi": "सड़क संकेत",
+      "topic": "Recognition",
+      "topicHi": "पहचान",
+      "question": {
+        "en": "Which group should a driver learn to recognize from the module?",
+        "hi": "चालक को मॉड्यूल में किन सड़क संकेत श्रेणियों को पहचानना सीखना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Prohibitory, Compulsory, Cautionary and Information signs",
+          "Only fuel signs",
+          "Only workshop signs",
+          "Only parking signs"
+        ],
+        "hi": [
+          "निषेधात्मक, अनिवार्य, सावधानीसूचक और सूचनात्मक",
+          "केवल ईंधन संकेत",
+          "केवल वर्कशॉप संकेत",
+          "केवल पार्किंग संकेत"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "These four categories are covered in the road-sign section.",
+        "hi": "मॉड्यूल में ये चारों श्रेणियाँ शामिल हैं।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 24,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "EM-01",
+      "module": "Emergency & Driver Safety",
+      "moduleHi": "आपातकालीन स्थिति एवं चालक सुरक्षा",
+      "topic": "Fire Extinguisher",
+      "topicHi": "फायर एक्सटिंग्विशर",
+      "question": {
+        "en": "What is the first step shown for operating the fire extinguisher?",
+        "hi": "फायर एक्सटिंग्विशर चलाने का पहला चरण क्या है?"
+      },
+      "options": {
+        "en": [
+          "Pull the steel pin",
+          "Cut the plastic tie",
+          "Press the handle",
+          "Aim the nozzle"
+        ],
+        "hi": [
+          "स्टील पिन खींचें",
+          "प्लास्टिक टाई काटें",
+          "हैंडल दबाएँ",
+          "नोज़ल पर निशाना लगाएँ"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The procedure starts with cutting the plastic tie.",
+        "hi": "दिए गए क्रम में पहला चरण प्लास्टिक टाई काटना है।"
+      },
+      "type": "Sequence",
+      "marks": 5,
+      "sourcePage": 28,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "EM-02",
+      "module": "Emergency & Driver Safety",
+      "moduleHi": "आपातकालीन स्थिति एवं चालक सुरक्षा",
+      "topic": "Fire Extinguisher",
+      "topicHi": "फायर एक्सटिंग्विशर",
+      "question": {
+        "en": "What is the second step shown?",
+        "hi": "फायर एक्सटिंग्विशर चलाने का दूसरा चरण क्या है?"
+      },
+      "options": {
+        "en": [
+          "Pull the steel pin out",
+          "Cut the plastic tie",
+          "Press the handle",
+          "Check the gauge"
+        ],
+        "hi": [
+          "स्टील पिन बाहर खींचें",
+          "प्लास्टिक टाई काटें",
+          "हैंडल दबाएँ",
+          "गेज चेक करें"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The second step is to pull the steel pin out.",
+        "hi": "दूसरा चरण स्टील पिन बाहर खींचना है।"
+      },
+      "type": "Sequence",
+      "marks": 5,
+      "sourcePage": 28,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "EM-03",
+      "module": "Emergency & Driver Safety",
+      "moduleHi": "आपातकालीन स्थिति एवं चालक सुरक्षा",
+      "topic": "Fire Extinguisher",
+      "topicHi": "फायर एक्सटिंग्विशर",
+      "question": {
+        "en": "What is the third step shown?",
+        "hi": "तीसरा चरण क्या है?"
+      },
+      "options": {
+        "en": [
+          "Pull the plastic out",
+          "Pull the pin",
+          "Open the fuel tank",
+          "Press the brake"
+        ],
+        "hi": [
+          "प्लास्टिक बाहर खींचें",
+          "पिन खींचें",
+          "फ्यूल टैंक खोलें",
+          "ब्रेक दबाएँ"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The third step is to pull the plastic out.",
+        "hi": "तीसरा चरण प्लास्टिक को बाहर खींचना है।"
+      },
+      "type": "Sequence",
+      "marks": 5,
+      "sourcePage": 28,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "EM-04",
+      "module": "Emergency & Driver Safety",
+      "moduleHi": "आपातकालीन स्थिति एवं चालक सुरक्षा",
+      "topic": "Fire Extinguisher",
+      "topicHi": "फायर एक्सटिंग्विशर",
+      "question": {
+        "en": "What is the final step shown?",
+        "hi": "अंतिम चरण क्या है?"
+      },
+      "options": {
+        "en": [
+          "Aim the nozzle at the fire and press the handle",
+          "Pull the pin again",
+          "Open the radiator",
+          "Switch on high beam"
+        ],
+        "hi": [
+          "नोज़ल को आग की ओर करके हैंडल दबाएँ",
+          "पिन फिर से खींचें",
+          "रेडिएटर खोलें",
+          "हाई बीम चालू करें"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The fourth step is to aim at the fire and press the handle.",
+        "hi": "चौथा चरण नोज़ल को आग की ओर करके हैंडल दबाना है।"
+      },
+      "type": "Sequence",
+      "marks": 5,
+      "sourcePage": 28,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "EM-05",
+      "module": "Emergency & Driver Safety",
+      "moduleHi": "आपातकालीन स्थिति एवं चालक सुरक्षा",
+      "topic": "Fire Extinguisher",
+      "topicHi": "फायर एक्सटिंग्विशर",
+      "question": {
+        "en": "Where should the extinguisher pressure-gauge needle be?",
+        "hi": "फायर एक्सटिंग्विशर के प्रेशर गेज की सुई कहाँ होनी चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Red band",
+          "Green band",
+          "Outside the gauge",
+          "Black band"
+        ],
+        "hi": [
+          "लाल बैंड",
+          "ग्रीन बैंड",
+          "गेज के बाहर",
+          "काले बैंड में"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The module says the needle should always be in the green band.",
+        "hi": "मॉड्यूल के अनुसार सुई हमेशा ग्रीन बैंड में होनी चाहिए।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 28,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "EM-06",
+      "module": "Emergency & Driver Safety",
+      "moduleHi": "आपातकालीन स्थिति एवं चालक सुरक्षा",
+      "topic": "Fire Extinguisher",
+      "topicHi": "फायर एक्सटिंग्विशर",
+      "question": {
+        "en": "How frequently does the module say the fire extinguisher should be checked?",
+        "hi": "फायर एक्सटिंग्विशर की जाँच कितने अंतराल पर करनी चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Every 15 days",
+          "Every 2 days",
+          "Once a year",
+          "Every 6 months"
+        ],
+        "hi": [
+          "हर 15 दिन",
+          "हर 2 दिन",
+          "साल में एक बार",
+          "हर 6 महीने"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source specifies a 15-day check.",
+        "hi": "स्रोत में 15 दिन के अंतराल पर जाँच बताई गई है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 28,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "EM-07",
+      "module": "Emergency & Driver Safety",
+      "moduleHi": "आपातकालीन स्थिति एवं चालक सुरक्षा",
+      "topic": "Battery Cut-off",
+      "topicHi": "बैटरी कट-ऑफ",
+      "question": {
+        "en": "When is the battery cut-off switch specifically recommended?",
+        "hi": "बैटरी कट-ऑफ स्विच कब विशेष रूप से उपयोग करने की सलाह दी गई है?"
+      },
+      "options": {
+        "en": [
+          "Long/overnight parking or a likely thermal incident",
+          "Every lane change",
+          "Every fuel stop",
+          "Only during overtaking"
+        ],
+        "hi": [
+          "लंबी/रातभर पार्किंग या संभावित थर्मल घटना में",
+          "हर लेन बदलने पर",
+          "हर ईंधन भरने पर",
+          "केवल ओवरटेकिंग में"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source gives long/overnight parking and likely thermal incidence as use cases.",
+        "hi": "स्रोत में long/overnight parking और likely thermal incidence दिए गए हैं।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 33,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "EM-08",
+      "module": "Emergency & Driver Safety",
+      "moduleHi": "आपातकालीन स्थिति एवं चालक सुरक्षा",
+      "topic": "Battery Cut-off",
+      "topicHi": "बैटरी कट-ऑफ",
+      "question": {
+        "en": "A driver smells an indication of a possible wiring/thermal issue. Which control is covered by the module for this situation?",
+        "hi": "संभावित वायरिंग/थर्मल समस्या के संकेत मिलें तो मॉड्यूल में कौन-सा नियंत्रण बताया गया है?"
+      },
+      "options": {
+        "en": [
+          "Battery cut-off switch",
+          "Fog lamp",
+          "Gear Shift Advisor",
+          "High beam"
+        ],
+        "hi": [
+          "बैटरी कट-ऑफ स्विच",
+          "फॉग लैंप",
+          "Gear Shift Advisor",
+          "हाई बीम"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module includes likely thermal incidence among the battery cut-off use cases.",
+        "hi": "मॉड्यूल संभावित थर्मल घटना में बैटरी कट-ऑफ के उपयोग को बताता है।"
+      },
+      "type": "Scenario",
+      "marks": 5,
+      "sourcePage": 33,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "VF-01",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "Switches",
+      "topicHi": "स्विच",
+      "question": {
+        "en": "Which switch is identified as the Gear Shift Advisor?",
+        "hi": "कौन-सा स्विच Gear Shift Advisor के रूप में दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Gear Shift Advisor",
+          "Power Mode",
+          "Hazard",
+          "Send Help"
+        ],
+        "hi": [
+          "Gear Shift Advisor",
+          "Power Mode",
+          "Hazard",
+          "Send Help"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The switch diagram labels Gear Shift Advisor.",
+        "hi": "स्विच डायग्राम में Gear Shift Advisor लेबल दिया गया है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 30,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-02",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "Switches",
+      "topicHi": "स्विच",
+      "question": {
+        "en": "Which switch is identified as Eco Mode?",
+        "hi": "कौन-सा स्विच Eco Mode है?"
+      },
+      "options": {
+        "en": [
+          "Eco Mode",
+          "Power Mode",
+          "ABS",
+          "Engine Brake"
+        ],
+        "hi": [
+          "Eco Mode",
+          "Power Mode",
+          "ABS",
+          "Engine Brake"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The switch diagram labels Eco Mode.",
+        "hi": "स्विच डायग्राम में Eco Mode दिया गया है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 30,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-03",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "Switches",
+      "topicHi": "स्विच",
+      "question": {
+        "en": "Which switch is identified as Power Mode?",
+        "hi": "कौन-सा स्विच Power Mode है?"
+      },
+      "options": {
+        "en": [
+          "Power Mode",
+          "Eco Mode",
+          "Hazard",
+          "Fog lamp"
+        ],
+        "hi": [
+          "Power Mode",
+          "Eco Mode",
+          "Hazard",
+          "Fog Lamp"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The switch diagram labels Power Mode.",
+        "hi": "स्विच डायग्राम में Power Mode दिया गया है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 30,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-04",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "Switches",
+      "topicHi": "स्विच",
+      "question": {
+        "en": "Which control is identified as Send Help?",
+        "hi": "कौन-सा नियंत्रण Send Help के रूप में दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "A help/emergency control",
+          "Gear Shift Advisor",
+          "ABS",
+          "Fog lamp"
+        ],
+        "hi": [
+          "मदद/आपातकालीन नियंत्रण",
+          "Gear Shift Advisor",
+          "ABS",
+          "Fog Lamp"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The switch diagram identifies a Send Help button.",
+        "hi": "स्विच डायग्राम में Send Help बटन दिया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 30,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-05",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "Switches",
+      "topicHi": "स्विच",
+      "question": {
+        "en": "Which of these is also shown in the switch diagram?",
+        "hi": "स्विच डायग्राम में इनमें से कौन-सा नियंत्रण भी दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Lift Axle Control Switch",
+          "Fuel pump switch",
+          "Tyre rotation switch",
+          "Oil-drain switch"
+        ],
+        "hi": [
+          "Lift Axle Control Switch",
+          "Fuel Pump Switch",
+          "Tyre Rotation Switch",
+          "Oil-Drain Switch"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Lift Axle Control Switch is one of the labelled controls.",
+        "hi": "Lift Axle Control Switch लेबल किए गए नियंत्रणों में से एक है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 30,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "VF-06",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "Steering Wheel",
+      "topicHi": "स्टीयरिंग व्हील",
+      "question": {
+        "en": "What driver control is specifically covered on the steering-wheel page?",
+        "hi": "स्टीयरिंग व्हील वाले पेज पर किस चालक नियंत्रण की जानकारी दी गई है?"
+      },
+      "options": {
+        "en": [
+          "Steering wheel adjustment",
+          "Wheel alignment",
+          "Tyre inflation",
+          "DEF quality"
+        ],
+        "hi": [
+          "स्टीयरिंग व्हील एडजस्टमेंट",
+          "व्हील अलाइनमेंट",
+          "टायर इन्फ्लेशन",
+          "DEF क्वालिटी"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Page 31 is dedicated to steering-wheel adjustment.",
+        "hi": "पेज 31 स्टीयरिंग व्हील एडजस्टमेंट के लिए है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 31,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-07",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "DEF",
+      "topicHi": "DEF",
+      "question": {
+        "en": "What should be used to fill DEF?",
+        "hi": "DEF भरने के लिए क्या उपयोग करना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Proper plastic spout",
+          "Used water bottle",
+          "Open pipe",
+          "Fuel nozzle"
+        ],
+        "hi": [
+          "उचित प्लास्टिक स्पाउट",
+          "पुरानी पानी की बोतल",
+          "खुला पाइप",
+          "फ्यूल नोज़ल"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module specifies a proper plastic spout.",
+        "hi": "मॉड्यूल उचित प्लास्टिक स्पाउट के उपयोग के लिए कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 32,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-08",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "DEF",
+      "topicHi": "DEF",
+      "question": {
+        "en": "Which DEF does the module instruct drivers to use?",
+        "hi": "DEF भरते समय किस DEF का उपयोग करने को कहा गया है?"
+      },
+      "options": {
+        "en": [
+          "Tata Genuine DEF",
+          "Any liquid labelled coolant",
+          "Used water",
+          "Engine oil"
+        ],
+        "hi": [
+          "Tata Genuine DEF",
+          "कोई भी कूलेंट",
+          "पुराना पानी",
+          "इंजन ऑयल"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source explicitly says to use Tata Genuine DEF.",
+        "hi": "स्रोत में Tata Genuine DEF का स्पष्ट निर्देश है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 32,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-09",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "DEF",
+      "topicHi": "DEF",
+      "question": {
+        "en": "Which practice is specifically prohibited for DEF refilling?",
+        "hi": "DEF भरते समय कौन-सी प्रथा प्रतिबंधित है?"
+      },
+      "options": {
+        "en": [
+          "Using a used water bottle",
+          "Using the proper plastic spout",
+          "Using Tata Genuine DEF",
+          "Closing the cap"
+        ],
+        "hi": [
+          "पुरानी पानी की बोतल का उपयोग",
+          "उचित प्लास्टिक स्पाउट का उपयोग",
+          "Tata Genuine DEF का उपयोग",
+          "कैप बंद रखना"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module says not to use things such as a used water bottle.",
+        "hi": "मॉड्यूल पुरानी पानी की बोतल जैसे अनुचित कंटेनर के उपयोग से मना करता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 32,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-10",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "DEF",
+      "topicHi": "DEF",
+      "question": {
+        "en": "What should the driver do with the DEF tank cap?",
+        "hi": "DEF टैंक के कैप के बारे में क्या करना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Leave it open",
+          "Keep it closed; do not leave it open",
+          "Remove it permanently",
+          "Keep it loose"
+        ],
+        "hi": [
+          "इसे खुला छोड़ दें",
+          "इसे बंद रखें; खुला न छोड़ें",
+          "इसे हमेशा के लिए निकाल दें",
+          "इसे ढीला रखें"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The module says not to leave the cap in open condition.",
+        "hi": "स्रोत कैप को खुली स्थिति में न छोड़ने के लिए कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 32,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-11",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "DEF",
+      "topicHi": "DEF",
+      "question": {
+        "en": "When should DEF be refilled according to the gauge guidance?",
+        "hi": "DEF कब भरना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Before the needle reaches the red band",
+          "Only when completely empty",
+          "Only after the engine stops",
+          "Only during service"
+        ],
+        "hi": [
+          "गेज की सुई लाल बैंड तक पहुँचने से पहले",
+          "पूरी तरह खाली होने पर ही",
+          "इंजन बंद होने के बाद ही",
+          "केवल सर्विस के दौरान"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module says to refill before the needle comes to the red band.",
+        "hi": "मॉड्यूल लाल बैंड तक पहुँचने से पहले DEF भरने को कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 32,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-12",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "Model Scope",
+      "topicHi": "मॉडल की लागू सीमा",
+      "question": {
+        "en": "The vehicle-familiarisation section beginning around page 29 is based on which vehicle generation?",
+        "hi": "पेज 29 से शुरू होने वाला Vehicle Familiarisation भाग किस वाहन पीढ़ी पर आधारित है?"
+      },
+      "options": {
+        "en": [
+          "BS4 models",
+          "BS2 models",
+          "BS3 models",
+          "BS6 only"
+        ],
+        "hi": [
+          "BS4 मॉडल",
+          "BS2 मॉडल",
+          "BS3 मॉडल",
+          "केवल BS6"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source notes that the vehicle-familiarisation section is based on BS4 models.",
+        "hi": "स्रोत में Vehicle Familiarisation भाग को BS4 मॉडल पर आधारित बताया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 29,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "VF-13",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "BS6 Switches",
+      "topicHi": "BS6 स्विच",
+      "question": {
+        "en": "Which switch is shown as a new BS6 switch?",
+        "hi": "कौन-सा स्विच BS6 में नया दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Stationary Regen",
+          "Fuel gauge",
+          "Speedometer",
+          "Seat belt"
+        ],
+        "hi": [
+          "Stationary Regen",
+          "Fuel Gauge",
+          "Speedometer",
+          "Seat Belt"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The BS6/BS4 switch comparison identifies Stationary Regen as new in BS6.",
+        "hi": "BS6/BS4 तुलना में Stationary Regen को नया स्विच दिखाया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 104,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "VF-14",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "BS6 Switches",
+      "topicHi": "BS6 स्विच",
+      "question": {
+        "en": "Which switch is shown as a new BS6 control for stopping regeneration when required?",
+        "hi": "आवश्यकता होने पर regeneration रोकने के लिए कौन-सा नया BS6 नियंत्रण दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Regen Off",
+          "Trip A",
+          "Fuel gauge",
+          "Parking brake"
+        ],
+        "hi": [
+          "Regen Off",
+          "Trip A",
+          "Fuel Gauge",
+          "Parking Brake"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The comparison identifies Regen Off as a new BS6 switch.",
+        "hi": "तुलना में Regen Off को नया BS6 स्विच दिखाया गया है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 104,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "VF-15",
+      "module": "Vehicle Familiarisation",
+      "moduleHi": "वाहन परिचय",
+      "topic": "Hill Start Assist",
+      "topicHi": "हिल स्टार्ट असिस्ट",
+      "question": {
+        "en": "What does Hill Start Assist help prevent?",
+        "hi": "Hill Start Assist किस स्थिति को रोकने में मदद करता है?"
+      },
+      "options": {
+        "en": [
+          "Vehicle rolling back on an uphill start",
+          "Fuel theft",
+          "DEF crystallization",
+          "Air-filter clogging"
+        ],
+        "hi": [
+          "चढ़ाई पर स्टार्ट करते समय वाहन के पीछे लुढ़कने को",
+          "ईंधन चोरी को",
+          "DEF crystallization को",
+          "एयर फिल्टर चोक होने को"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module states that Hill Start Assist prevents rollback while starting on an uphill road.",
+        "hi": "मॉड्यूल के अनुसार Hill Start Assist uphill start पर rollback रोकने में मदद करता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 101,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "FE-01",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Factors",
+      "topicHi": "कारक",
+      "question": {
+        "en": "Which is listed as a factor affecting fuel efficiency?",
+        "hi": "ईंधन दक्षता को प्रभावित करने वाले कारकों में कौन-सा शामिल है?"
+      },
+      "options": {
+        "en": [
+          "Driving technique",
+          "Seat colour",
+          "Number plate style",
+          "Cabin upholstery"
+        ],
+        "hi": [
+          "ड्राइविंग तकनीक",
+          "सीट का रंग",
+          "नंबर प्लेट का डिज़ाइन",
+          "कैबिन का कपड़ा"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Driving technique is listed among fuel-efficiency factors.",
+        "hi": "Driving technique ईंधन दक्षता के कारकों में शामिल है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 35,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-02",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Factors",
+      "topicHi": "कारक",
+      "question": {
+        "en": "Which is another factor listed in the module?",
+        "hi": "मॉड्यूल में सूचीबद्ध एक अन्य ईंधन-दक्षता कारक कौन-सा है?"
+      },
+      "options": {
+        "en": [
+          "Vehicle and trailer aerodynamics",
+          "Horn design",
+          "Mirror colour",
+          "Seat fabric"
+        ],
+        "hi": [
+          "वाहन और ट्रेलर की एयरोडायनामिक्स",
+          "हॉर्न का डिज़ाइन",
+          "मिरर का रंग",
+          "सीट का कपड़ा"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Vehicle and trailer aerodynamics are listed as a factor.",
+        "hi": "Vehicle and trailer aerodynamics भी सूचीबद्ध कारक है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 35,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-03",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Driver Control",
+      "topicHi": "चालक के नियंत्रण वाले बिंदु",
+      "question": {
+        "en": "How many driver-controlled points are highlighted for fuel economy?",
+        "hi": "ईंधन अर्थव्यवस्था के लिए चालक-नियंत्रित कितने मुख्य बिंदु बताए गए हैं?"
+      },
+      "options": {
+        "en": [
+          "2",
+          "3",
+          "5",
+          "8"
+        ],
+        "hi": [
+          "2",
+          "3",
+          "5",
+          "8"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The module focuses on three driver-controlled points.",
+        "hi": "मॉड्यूल तीन driver-controlled points पर जोर देता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 36,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-04",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Driver Control",
+      "topicHi": "चालक के नियंत्रण वाले बिंदु",
+      "question": {
+        "en": "Which set correctly gives the three driver-controlled points?",
+        "hi": "तीन driver-controlled points का सही सेट कौन-सा है?"
+      },
+      "options": {
+        "en": [
+          "Driving technique; vehicle maintenance; tyre pressure & wheel alignment",
+          "Horn; paint; seat",
+          "DEF; battery; USB",
+          "Clock; mirror; wiper"
+        ],
+        "hi": [
+          "ड्राइविंग तकनीक; वाहन रखरखाव; टायर प्रेशर और व्हील अलाइनमेंट",
+          "हॉर्न; पेंट; सीट",
+          "DEF; बैटरी; USB",
+          "घड़ी; मिरर; वाइपर"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "These are the three points listed on page 36.",
+        "hi": "पेज 36 पर यही तीन बिंदु दिए गए हैं।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 36,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-05",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Golden Rules",
+      "topicHi": "गोल्डन रूल्स",
+      "question": {
+        "en": "Which four items are called the '4 Golden rules for Maximum mileage'?",
+        "hi": "Maximum mileage के लिए '4 Golden Rules' कौन-से हैं?"
+      },
+      "options": {
+        "en": [
+          "Engine RPM, vehicle speed, FE mode, gear",
+          "Fuel level, horn, seat, mirror",
+          "Tyre size, DEF, battery, oil",
+          "Temperature, clock, wiper, lamp"
+        ],
+        "hi": [
+          "Engine RPM, Vehicle Speed, FE Mode, Gear",
+          "Fuel Level, Horn, Seat, Mirror",
+          "Tyre Size, DEF, Battery, Oil",
+          "Temperature, Clock, Wiper, Lamp"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The four items are listed on page 43.",
+        "hi": "पेज 43 पर ये चार Golden Rules दिए गए हैं।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 43,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-06",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Golden Rules",
+      "topicHi": "गोल्डन रूल्स",
+      "question": {
+        "en": "What engine RPM band is shown for the maximum-mileage guidance?",
+        "hi": "Maximum mileage guidance में Engine RPM को किस बैंड में रखना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Green band",
+          "Red band",
+          "Yellow band only",
+          "Maximum RPM"
+        ],
+        "hi": [
+          "Green Band",
+          "Red Band",
+          "केवल Yellow Band",
+          "Maximum RPM"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source instructs drivers to keep engine RPM in the green band.",
+        "hi": "स्रोत Engine RPM को Green Band में रखने का निर्देश देता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 43,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-07",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Golden Rules",
+      "topicHi": "गोल्डन रूल्स",
+      "question": {
+        "en": "What vehicle speed is shown in the maximum-mileage driving guidance?",
+        "hi": "Maximum mileage guidance में वाहन की गति कितनी दिखाई गई है?"
+      },
+      "options": {
+        "en": [
+          "35–40 kmph",
+          "45–50 kmph",
+          "55–60 kmph",
+          "80–90 kmph"
+        ],
+        "hi": [
+          "35–40 kmph",
+          "45–50 kmph",
+          "55–60 kmph",
+          "80–90 kmph"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The page 43 illustration specifies 55–60 kmph.",
+        "hi": "पेज 43 पर 55–60 kmph की गति दी गई है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 43,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "FE-08",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Golden Rules",
+      "topicHi": "गोल्डन रूल्स",
+      "question": {
+        "en": "Which gear-use practice is shown in the maximum-mileage guidance?",
+        "hi": "Maximum mileage guidance में कौन-सी gear-use practice दिखाई गई है?"
+      },
+      "options": {
+        "en": [
+          "Drive in top gear",
+          "Always use first gear",
+          "Drive in neutral",
+          "Avoid using top gear"
+        ],
+        "hi": [
+          "Top Gear में ड्राइव करें",
+          "हमेशा First Gear इस्तेमाल करें",
+          "Neutral में चलाएँ",
+          "Top Gear से बचें"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The illustration explicitly says to drive in top gear.",
+        "hi": "चित्र में Top Gear में ड्राइव करने का निर्देश है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 43,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-09",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Long Stop",
+      "topicHi": "लंबा ठहराव",
+      "question": {
+        "en": "According to the module, how much diesel can 10 minutes of idling consume?",
+        "hi": "मॉड्यूल के अनुसार 10 मिनट idling में कितना diesel खर्च हो सकता है?"
+      },
+      "options": {
+        "en": [
+          "125 ml",
+          "500 ml",
+          "1.25 litres",
+          "2.5 litres"
+        ],
+        "hi": [
+          "125 ml",
+          "500 ml",
+          "1.25 litres",
+          "2.5 litres"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The source states up to 125 ml per minute, or 1.25 litres for 10 minutes.",
+        "hi": "स्रोत 125 ml प्रति मिनट तक बताता है, यानी 10 मिनट में 1.25 litres।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 44,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "FE-10",
+      "module": "Fuel Economy",
+      "moduleHi": "ईंधन की बचत",
+      "topic": "Long Stop",
+      "topicHi": "लंबा ठहराव",
+      "question": {
+        "en": "What should the driver do at a long stop to save diesel?",
+        "hi": "लंबे ठहराव के समय diesel बचाने के लिए क्या करना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Keep the engine idling",
+          "Switch off the engine",
+          "Increase RPM",
+          "Use high beam"
+        ],
+        "hi": [
+          "इंजन चालू छोड़ें",
+          "इंजन बंद करें",
+          "RPM बढ़ाएँ",
+          "हाई बीम इस्तेमाल करें"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The module advises switching off the engine at a long stop.",
+        "hi": "मॉड्यूल लंबे ठहराव पर इंजन बंद करने की सलाह देता है।"
+      },
+      "type": "Scenario",
+      "marks": 5,
+      "sourcePage": 44,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-11",
+      "module": "Driving Technique",
+      "moduleHi": "ड्राइविंग तकनीक",
+      "topic": "Clutch",
+      "topicHi": "क्लच",
+      "question": {
+        "en": "Which component's proper use is covered on page 45?",
+        "hi": "पेज 45 पर किस component के सही उपयोग की सावधानी दी गई है?"
+      },
+      "options": {
+        "en": [
+          "Clutch",
+          "DEF tank",
+          "Fuel gauge",
+          "Air tank"
+        ],
+        "hi": [
+          "Clutch",
+          "DEF Tank",
+          "Fuel Gauge",
+          "Air Tank"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Page 45 is titled Precaution – Proper use of Clutch.",
+        "hi": "पेज 45 Proper use of Clutch पर है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 45,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-12",
+      "module": "Driving Technique",
+      "moduleHi": "ड्राइविंग तकनीक",
+      "topic": "Engine Overrun",
+      "topicHi": "इंजन ओवररन",
+      "question": {
+        "en": "Which precaution is covered on page 46?",
+        "hi": "पेज 46 पर कौन-सी सावधानी दी गई है?"
+      },
+      "options": {
+        "en": [
+          "Engine overrun",
+          "Fuel theft",
+          "Clock setting",
+          "Tyre rotation"
+        ],
+        "hi": [
+          "Engine Overrun",
+          "Fuel Theft",
+          "Clock Setting",
+          "Tyre Rotation"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Page 46 is titled Precaution – Engine Overrun.",
+        "hi": "पेज 46 Precaution – Engine Overrun पर है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 46,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "FE-13",
+      "module": "Driving Technique",
+      "moduleHi": "ड्राइविंग तकनीक",
+      "topic": "FE Mode",
+      "topicHi": "FE मोड",
+      "question": {
+        "en": "On the BS6 FE switch page, which mode is shown for steep gradients?",
+        "hi": "BS6 FE switch page पर steep gradients के लिए कौन-सा mode दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Light Mode",
+          "Medium Mode",
+          "Heavy Mode",
+          "Neutral Mode"
+        ],
+        "hi": [
+          "Light Mode",
+          "Medium Mode",
+          "Heavy Mode",
+          "Neutral Mode"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The source table associates Heavy Mode with steep gradients.",
+        "hi": "स्रोत की तालिका steep gradients के लिए Heavy Mode बताती है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 98,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "MT-01",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Air Filter",
+      "topicHi": "एयर फिल्टर",
+      "question": {
+        "en": "If the air-filter service indicator shows a red band, what does the module instruct?",
+        "hi": "यदि Air Filter Service Indicator में red band दिखाई दे तो क्या करना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Change the filter; do not clean it",
+          "Clean and reuse it",
+          "Ignore it",
+          "Fill DEF"
+        ],
+        "hi": [
+          "Filter बदलें; उसे साफ करके दोबारा उपयोग न करें",
+          "उसे साफ करके दोबारा उपयोग करें",
+          "उसे अनदेखा करें",
+          "DEF भरें"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source says to change the filter if the red band appears and not clean it.",
+        "hi": "स्रोत red band पर filter बदलने और उसे clean/reuse न करने को कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 38,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "MT-02",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Air Filter",
+      "topicHi": "एयर फिल्टर",
+      "question": {
+        "en": "A visible red band on the service indicator means the air filter is shown as:",
+        "hi": "Service Indicator में red band दिखाई देने का क्या अर्थ है?"
+      },
+      "options": {
+        "en": [
+          "OK",
+          "Choked",
+          "New",
+          "Overfilled"
+        ],
+        "hi": [
+          "Air filter ठीक है",
+          "Air filter choked है",
+          "Filter नया है",
+          "Filter overfilled है"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The illustration shows red band visible as Air filter choked.",
+        "hi": "चित्र में red band visible होने पर Air Filter Choked दिखाया गया है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 38,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "MT-03",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Water in Fuel",
+      "topicHi": "ईंधन में पानी",
+      "question": {
+        "en": "What should be done when the Water in Fuel indicator is ON?",
+        "hi": "Water in Fuel indicator ON होने पर क्या करना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Remove water from the fuel filter",
+          "Add engine oil",
+          "Increase speed",
+          "Switch on fog lamps"
+        ],
+        "hi": [
+          "Fuel filter से पानी निकालें",
+          "Engine oil डालें",
+          "Speed बढ़ाएँ",
+          "Fog lamp चालू करें"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source says to remove water when the indicator is on.",
+        "hi": "स्रोत indicator ON होने पर fuel filter से पानी निकालने को कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 39,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "MT-04",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Air Tanks",
+      "topicHi": "एयर टैंक",
+      "question": {
+        "en": "How often should condensed water be drained from air tanks?",
+        "hi": "Air tanks से condensed water कितनी बार drain करना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Once a day",
+          "Once a week",
+          "Once a month",
+          "Once a year"
+        ],
+        "hi": [
+          "दिन में एक बार",
+          "सप्ताह में एक बार",
+          "महीने में एक बार",
+          "साल में एक बार"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The module says to do it once in a week.",
+        "hi": "मॉड्यूल सप्ताह में एक बार drain करने को कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 40,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "MT-05",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Scheduled Service",
+      "topicHi": "निर्धारित सर्विस",
+      "question": {
+        "en": "Where should the driver check the recommended scheduled-service intervals?",
+        "hi": "Recommended scheduled-service intervals कहाँ देखें?"
+      },
+      "options": {
+        "en": [
+          "Operator Service Book",
+          "Driving licence",
+          "Fuel receipt",
+          "Road-sign chart"
+        ],
+        "hi": [
+          "Operator Service Book",
+          "Driving Licence",
+          "Fuel Receipt",
+          "Road-sign Chart"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source directs the driver to the Operator Service Book.",
+        "hi": "स्रोत Operator Service Book देखने का निर्देश देता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 41,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "MT-06",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Scheduled Service",
+      "topicHi": "निर्धारित सर्विस",
+      "question": {
+        "en": "What does the module state if scheduled services are not done within the recommended limits?",
+        "hi": "यदि scheduled services recommended limits के भीतर नहीं की जाती हैं तो मॉड्यूल क्या कहता है?"
+      },
+      "options": {
+        "en": [
+          "Warranty will be invalid",
+          "Tyres become new",
+          "DEF level increases",
+          "Fuel tank expands"
+        ],
+        "hi": [
+          "Warranty invalid होगी",
+          "Tyres नए हो जाएँगे",
+          "DEF level बढ़ जाएगा",
+          "Fuel tank फैल जाएगा"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source explicitly states that otherwise warranty will be invalid.",
+        "hi": "स्रोत में कहा गया है कि निर्धारित सर्विस न होने पर warranty invalid होगी।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 41,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "MT-07",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Tyre Pressure",
+      "topicHi": "टायर प्रेशर",
+      "question": {
+        "en": "How does low tyre pressure affect the tyre according to the illustration?",
+        "hi": "Low tyre pressure का टायर पर क्या प्रभाव दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "It wears quickly on both sides",
+          "It wears quickly in the centre",
+          "It does not wear",
+          "It becomes harder automatically"
+        ],
+        "hi": [
+          "दोनों किनारों पर जल्दी घिसाव",
+          "बीच में जल्दी घिसाव",
+          "कोई घिसाव नहीं",
+          "टायर अपने आप कठोर हो जाता है"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The illustration shows low pressure causing faster wear on both sides.",
+        "hi": "चित्र low pressure में दोनों किनारों के जल्दी घिसने को दिखाता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 48,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "MT-08",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Tyre Pressure",
+      "topicHi": "टायर प्रेशर",
+      "question": {
+        "en": "How does high tyre pressure affect the tyre according to the illustration?",
+        "hi": "High tyre pressure का टायर पर क्या प्रभाव दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "It wears quickly in the centre",
+          "It wears quickly on both sides",
+          "It has no effect",
+          "It doubles tyre life"
+        ],
+        "hi": [
+          "बीच में जल्दी घिसाव",
+          "दोनों किनारों पर जल्दी घिसाव",
+          "कोई प्रभाव नहीं",
+          "टायर की life दोगुनी हो जाती है"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The illustration shows high pressure causing faster centre wear.",
+        "hi": "चित्र high pressure में centre wear दिखाता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 48,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "MT-09",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Tyre Pressure",
+      "topicHi": "टायर प्रेशर",
+      "question": {
+        "en": "What is shown as the result of correct tyre pressure?",
+        "hi": "सही tyre pressure का क्या परिणाम दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Even wear and longer life",
+          "Centre wear only",
+          "Side wear only",
+          "Immediate failure"
+        ],
+        "hi": [
+          "Even wear और longer life",
+          "केवल centre wear",
+          "केवल side wear",
+          "तुरंत failure"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source shows even wear and longer life with correct pressure.",
+        "hi": "स्रोत सही pressure पर even wear और longer life दिखाता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 48,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "MT-10",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Tyre Pressure",
+      "topicHi": "टायर प्रेशर",
+      "question": {
+        "en": "How often does the module say tyre pressure should be checked?",
+        "hi": "Tyre pressure कितने अंतराल पर check करना चाहिए?"
+      },
+      "options": {
+        "en": [
+          "Every 2 days",
+          "Every 7 days",
+          "Every 15 days",
+          "Every 60 days"
+        ],
+        "hi": [
+          "हर 2 दिन",
+          "हर 7 दिन",
+          "हर 15 दिन",
+          "हर 60 दिन"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The source says to check tyre pressure once in 15 days.",
+        "hi": "स्रोत tyre pressure हर 15 दिन check करने को कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 48,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "MT-11",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Tyre Pressure",
+      "topicHi": "टायर प्रेशर",
+      "question": {
+        "en": "What tyre pressure is shown for BIAS 10x20 at rated load?",
+        "hi": "Rated load पर BIAS 10x20 के लिए कौन-सा tyre pressure दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "80 PSI",
+          "100 PSI",
+          "120 PSI",
+          "150 PSI"
+        ],
+        "hi": [
+          "80 PSI",
+          "100 PSI",
+          "120 PSI",
+          "150 PSI"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The table shows 120 PSI at rated load.",
+        "hi": "तालिका rated load पर 120 PSI दिखाती है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 48,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "MT-12",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Tyre Mixing",
+      "topicHi": "टायर मिश्रण",
+      "question": {
+        "en": "What precaution is given about same-size nylon and radial tyres?",
+        "hi": "Same-size nylon और radial tyres के बारे में क्या सावधानी दी गई है?"
+      },
+      "options": {
+        "en": [
+          "Use them together",
+          "Do not use them together",
+          "Use them together only on the rear",
+          "Mix them during rain"
+        ],
+        "hi": [
+          "उन्हें साथ इस्तेमाल करें",
+          "उन्हें साथ इस्तेमाल न करें",
+          "उन्हें केवल rear पर साथ लगाएँ",
+          "बारिश में उन्हें मिलाएँ"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The source says same-size nylon and radial tyres should not be used together.",
+        "hi": "स्रोत same-size nylon और radial tyres को साथ इस्तेमाल न करने के लिए कहता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 48,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "WA-01",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Wheel Alignment",
+      "topicHi": "व्हील अलाइनमेंट",
+      "question": {
+        "en": "For a single steering axle vehicle, what schedule is shown for wheel alignment/tyre rotation?",
+        "hi": "Single steering axle vehicle के लिए wheel alignment/tyre rotation का interval क्या दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Every 5,000 km",
+          "Every 10,000 km",
+          "Every 20,000 km",
+          "Every 40,000 km"
+        ],
+        "hi": [
+          "हर 5,000 km",
+          "हर 10,000 km",
+          "हर 20,000 km",
+          "हर 40,000 km"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The source shows every 20,000 km for single steering axle vehicles.",
+        "hi": "स्रोत single steering axle के लिए 20,000 km बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 49,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "WA-02",
+      "module": "Vehicle Maintenance",
+      "moduleHi": "वाहन रखरखाव",
+      "topic": "Wheel Alignment",
+      "topicHi": "व्हील अलाइनमेंट",
+      "question": {
+        "en": "For a twin steering axle vehicle, what schedule is shown?",
+        "hi": "Twin steering axle vehicle के लिए interval क्या दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "Every 5,000 km",
+          "Every 10,000 km",
+          "Every 20,000 km",
+          "Every 50,000 km"
+        ],
+        "hi": [
+          "हर 5,000 km",
+          "हर 10,000 km",
+          "हर 20,000 km",
+          "हर 50,000 km"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The source shows every 10,000 km for twin steering axle vehicles.",
+        "hi": "स्रोत twin steering axle के लिए 10,000 km बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 49,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "CL-01",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "BS6 vs BS4",
+      "topicHi": "BS6 बनाम BS4",
+      "question": {
+        "en": "How many total gauges are shown for BS6 in the comparison?",
+        "hi": "BS6 comparison में total gauges कितने दिखाए गए हैं?"
+      },
+      "options": {
+        "en": [
+          "6",
+          "7",
+          "8",
+          "10"
+        ],
+        "hi": [
+          "6",
+          "7",
+          "8",
+          "10"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The comparison shows 8 gauges for BS6 and 7 for BS4.",
+        "hi": "तुलना में BS6 के लिए 8 gauges और BS4 के लिए 7 gauges दिखाए गए हैं।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 69,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "CL-02",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "BS6 vs BS4",
+      "topicHi": "BS6 बनाम BS4",
+      "question": {
+        "en": "How many telltale lamps are shown for BS6 in the comparison?",
+        "hi": "BS6 comparison में telltale lamps कितने दिखाए गए हैं?"
+      },
+      "options": {
+        "en": [
+          "32",
+          "35",
+          "47",
+          "50"
+        ],
+        "hi": [
+          "32",
+          "35",
+          "47",
+          "50"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The comparison shows 47 telltale lamps for BS6.",
+        "hi": "तुलना में BS6 के लिए 47 telltale lamps दिखाए गए हैं।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 69,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "CL-03",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "BS6 vs BS4",
+      "topicHi": "BS6 बनाम BS4",
+      "question": {
+        "en": "What LCD screen size is shown for BS6?",
+        "hi": "BS6 में LCD screen का आकार कितना दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "2.3 inch",
+          "5 inch",
+          "7 inch",
+          "10 inch"
+        ],
+        "hi": [
+          "2.3 inch",
+          "5 inch",
+          "7 inch",
+          "10 inch"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The BS6 comparison shows a 5-inch LCD screen.",
+        "hi": "BS6 comparison में 5-inch LCD screen दिखाई गई है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 69,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "CL-04",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "RPM",
+      "topicHi": "RPM",
+      "question": {
+        "en": "Which instrument displays engine RPM?",
+        "hi": "Engine RPM कौन-सा instrument दिखाता है?"
+      },
+      "options": {
+        "en": [
+          "RPM meter",
+          "Fuel gauge",
+          "Speedometer",
+          "Temperature gauge"
+        ],
+        "hi": [
+          "RPM Meter",
+          "Fuel Gauge",
+          "Speedometer",
+          "Temperature Gauge"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module has a dedicated Engine RPM Meter page.",
+        "hi": "मॉड्यूल में Engine RPM Meter का अलग पेज है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 70,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "CL-05",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "Speedometer",
+      "topicHi": "स्पीडोमीटर",
+      "question": {
+        "en": "Which instrument shows vehicle speed?",
+        "hi": "Vehicle speed कौन-सा instrument दिखाता है?"
+      },
+      "options": {
+        "en": [
+          "Speedometer",
+          "RPM meter",
+          "Fuel gauge",
+          "Temperature gauge"
+        ],
+        "hi": [
+          "Speedometer",
+          "RPM Meter",
+          "Fuel Gauge",
+          "Temperature Gauge"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module identifies the Speedo Meter as the speed display.",
+        "hi": "मॉड्यूल Speedo Meter को vehicle speed display के रूप में बताता है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 72,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "CL-06",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "Fuel Gauge",
+      "topicHi": "फ्यूल गेज",
+      "question": {
+        "en": "Which instrument shows fuel level?",
+        "hi": "Fuel level कौन-सा instrument दिखाता है?"
+      },
+      "options": {
+        "en": [
+          "Fuel gauge",
+          "RPM meter",
+          "Speedometer",
+          "OAT"
+        ],
+        "hi": [
+          "Fuel Gauge",
+          "RPM Meter",
+          "Speedometer",
+          "OAT"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module identifies the Fuel Gauge.",
+        "hi": "मॉड्यूल Fuel Gauge को fuel level display के रूप में दिखाता है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 73,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "CL-07",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "Service Indicator",
+      "topicHi": "सर्विस इंडिकेटर",
+      "question": {
+        "en": "What does the Service Required indicator communicate?",
+        "hi": "Service Required indicator क्या बताता है?"
+      },
+      "options": {
+        "en": [
+          "Service is required",
+          "Fuel is full",
+          "Hazard is active",
+          "DEF is full"
+        ],
+        "hi": [
+          "Service required है",
+          "Fuel full है",
+          "Hazard active है",
+          "DEF full है"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module identifies it as Service Required.",
+        "hi": "मॉड्यूल इसे Service Required के रूप में पहचानता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 78,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "CL-08",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "AFE",
+      "topicHi": "AFE",
+      "question": {
+        "en": "What does AFE mean?",
+        "hi": "AFE का अर्थ क्या है?"
+      },
+      "options": {
+        "en": [
+          "Average Fuel Efficiency",
+          "Automatic Fuel Engine",
+          "Axle Fuel Estimate",
+          "Average Filter Efficiency"
+        ],
+        "hi": [
+          "Average Fuel Efficiency",
+          "Automatic Fuel Engine",
+          "Axle Fuel Estimate",
+          "Average Filter Efficiency"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source expands AFE as Average Fuel Efficiency.",
+        "hi": "स्रोत AFE को Average Fuel Efficiency बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 83,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "CL-09",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "AFE",
+      "topicHi": "AFE",
+      "question": {
+        "en": "Which units are shown for AFE in the module?",
+        "hi": "मॉड्यूल में AFE किन units में दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "KM/Lit, KM/Kg or Lit/Hr",
+          "Only PSI",
+          "Only km/hr",
+          "Only litres"
+        ],
+        "hi": [
+          "KM/Lit, KM/Kg या Lit/Hr",
+          "केवल PSI",
+          "केवल km/hr",
+          "केवल litres"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "These units are listed on the AFE page.",
+        "hi": "ये units AFE page पर दी गई हैं।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 83,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "CL-10",
+      "module": "Instrument Cluster",
+      "moduleHi": "इंस्ट्रूमेंट क्लस्टर",
+      "topic": "OAT",
+      "topicHi": "OAT",
+      "question": {
+        "en": "What does OAT stand for?",
+        "hi": "OAT का अर्थ क्या है?"
+      },
+      "options": {
+        "en": [
+          "Outside Ambient Temperature",
+          "Oil Air Temperature",
+          "Over Axle Torque",
+          "Operator Alarm Test"
+        ],
+        "hi": [
+          "Outside Ambient Temperature",
+          "Oil Air Temperature",
+          "Over Axle Torque",
+          "Operator Alarm Test"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module defines OAT as Outside Ambient Temperature.",
+        "hi": "मॉड्यूल OAT को Outside Ambient Temperature बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 88,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-01",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "BS6 Purpose",
+      "topicHi": "BS6 का उद्देश्य",
+      "question": {
+        "en": "What environmental issue is used to introduce the need for BS6?",
+        "hi": "BS6 की आवश्यकता समझाते समय किस environmental issue को बताया गया है?"
+      },
+      "options": {
+        "en": [
+          "Air pollution",
+          "Tyre wear",
+          "Fuel theft",
+          "Cabin noise"
+        ],
+        "hi": [
+          "Air pollution",
+          "Tyre wear",
+          "Fuel theft",
+          "Cabin noise"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module introduces BS6 in the context of reducing air pollution.",
+        "hi": "मॉड्यूल BS6 को air pollution कम करने के संदर्भ में प्रस्तुत करता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 51,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-02",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "BS6 Emissions",
+      "topicHi": "BS6 उत्सर्जन",
+      "question": {
+        "en": "What does the module say about visible smoke from the BS6 silencer?",
+        "hi": "BS6 silencer से visible smoke के बारे में मॉड्यूल क्या बताता है?"
+      },
+      "options": {
+        "en": [
+          "It will more or less disappear",
+          "It will increase",
+          "It will always be black",
+          "It will always be blue"
+        ],
+        "hi": [
+          "यह लगभग समाप्त हो जाएगा",
+          "यह बढ़ जाएगा",
+          "यह हमेशा black होगा",
+          "यह हमेशा blue होगा"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source states that visible smoke will more or less disappear.",
+        "hi": "स्रोत कहता है कि visible smoke more or less disappear हो जाएगा।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 53,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-03",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "Major Changes",
+      "topicHi": "मुख्य बदलाव",
+      "question": {
+        "en": "Which two major changes are highlighted when comparing Tata BS6 trucks with BS4?",
+        "hi": "BS4 की तुलना में Tata BS6 trucks में कौन-से दो major changes बताए गए हैं?"
+      },
+      "options": {
+        "en": [
+          "Engine exhaust system and instrument cluster",
+          "Seat and mirror",
+          "Tyres and horn",
+          "Fuel cap and wiper"
+        ],
+        "hi": [
+          "Engine exhaust system और instrument cluster",
+          "Seat और mirror",
+          "Tyres और horn",
+          "Fuel cap और wiper"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module highlights the EGP/exhaust system and instrument cluster.",
+        "hi": "मॉड्यूल EGP/exhaust system और instrument cluster को प्रमुख बदलाव बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 55,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-04",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "EGP",
+      "topicHi": "EGP",
+      "question": {
+        "en": "Which component is shown as part of the BS6 Engine Exhaust Gas Post-treatment system?",
+        "hi": "BS6 Engine Exhaust Gas Post-treatment system का कौन-सा component दिखाया गया है?"
+      },
+      "options": {
+        "en": [
+          "DPF",
+          "Fuel tank",
+          "Clutch plate",
+          "Air tank"
+        ],
+        "hi": [
+          "DPF",
+          "Fuel Tank",
+          "Clutch Plate",
+          "Air Tank"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "DPF is part of the BS6 EGP construction shown in the module.",
+        "hi": "DPF BS6 EGP construction का हिस्सा दिखाया गया है।"
+      },
+      "type": "Image Identification",
+      "marks": 5,
+      "sourcePage": 57,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-05",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "EGP",
+      "topicHi": "EGP",
+      "question": {
+        "en": "What does DPF stand for?",
+        "hi": "DPF का full form क्या है?"
+      },
+      "options": {
+        "en": [
+          "Diesel Particulate Filter",
+          "Diesel Pressure Filter",
+          "Driver Protection Filter",
+          "Diesel Pump Filter"
+        ],
+        "hi": [
+          "Diesel Particulate Filter",
+          "Diesel Pressure Filter",
+          "Driver Protection Filter",
+          "Diesel Pump Filter"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module expands DPF as Diesel Particulate Filter.",
+        "hi": "मॉड्यूल DPF का full form Diesel Particulate Filter देता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 57,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-06",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "EGP",
+      "topicHi": "EGP",
+      "question": {
+        "en": "What is the purpose of the BS6 EGP described in the module?",
+        "hi": "BS6 EGP का मुख्य उद्देश्य क्या बताया गया है?"
+      },
+      "options": {
+        "en": [
+          "Treat harmful gases and particulate matter",
+          "Store diesel",
+          "Inflate tyres",
+          "Cool the cabin"
+        ],
+        "hi": [
+          "हानिकारक gases और particulate matter का treatment करना",
+          "Diesel store करना",
+          "Tyres में हवा भरना",
+          "Cabin cool करना"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source says the EGP chemically treats harmful gases and particulate matter.",
+        "hi": "स्रोत EGP को harmful gases और particulate matter के chemical treatment से जोड़ता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 57,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "BS6-07",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "EGP Safety",
+      "topicHi": "EGP सुरक्षा",
+      "question": {
+        "en": "How does BS6 EGP temperature compare with BS4 EGP temperature?",
+        "hi": "BS6 EGP का temperature BS4 EGP की तुलना में कैसा है?"
+      },
+      "options": {
+        "en": [
+          "Lower",
+          "Same",
+          "Higher",
+          "No temperature"
+        ],
+        "hi": [
+          "कम",
+          "समान",
+          "अधिक",
+          "कोई temperature नहीं"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The module says BS6 EGP temperature is higher and warns drivers to keep away.",
+        "hi": "मॉड्यूल के अनुसार BS6 EGP का temperature अधिक है और चालक को दूर रहने की चेतावनी दी गई है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 62,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-08",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "DPF",
+      "topicHi": "DPF",
+      "question": {
+        "en": "What does the DPF trap?",
+        "hi": "DPF किसे trap करता है?"
+      },
+      "options": {
+        "en": [
+          "Soot/carbon particles",
+          "Water from air tanks",
+          "Fuel",
+          "Tyre dust only"
+        ],
+        "hi": [
+          "Soot/carbon particles",
+          "Air tank का पानी",
+          "Fuel",
+          "केवल tyre dust"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module explains that the DPF traps soot/carbon particles.",
+        "hi": "मॉड्यूल बताता है कि DPF soot/carbon particles को trap करता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 62,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-09",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "Regeneration",
+      "topicHi": "रीजेनरेशन",
+      "question": {
+        "en": "What is regeneration in the DPF context?",
+        "hi": "DPF regeneration क्या है?"
+      },
+      "options": {
+        "en": [
+          "Burning accumulated soot using exhaust-gas heat",
+          "Changing engine oil",
+          "Filling DEF",
+          "Draining air tanks"
+        ],
+        "hi": [
+          "Exhaust-gas heat से जमा soot को जलाना",
+          "Engine oil बदलना",
+          "DEF भरना",
+          "Air tank drain करना"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source describes regeneration as burning soot using exhaust-gas heat.",
+        "hi": "स्रोत regeneration को exhaust-gas heat से accumulated soot burn करने की प्रक्रिया बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 63,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "BS6-10",
+      "module": "BS6 Knowledge",
+      "moduleHi": "BS6 की जानकारी",
+      "topic": "Active Regeneration",
+      "topicHi": "एक्टिव रीजेनरेशन",
+      "question": {
+        "en": "How does Active Regeneration occur according to the module?",
+        "hi": "Active Regeneration कैसे होती है?"
+      },
+      "options": {
+        "en": [
+          "Automatically",
+          "Only after tyre removal",
+          "Only during refuelling",
+          "Only when Regen Off is pressed"
+        ],
+        "hi": [
+          "Automatically",
+          "केवल tyre removal के बाद",
+          "केवल refuelling के समय",
+          "केवल Regen Off दबाने पर"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source describes Active Regeneration as an automatic process.",
+        "hi": "मॉड्यूल Active Regeneration को automatic process बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 63,
+      "difficulty": "Easy",
+      "active": true
+    },
+    {
+      "id": "ACT-01",
+      "module": "BS6 Driver Actions",
+      "moduleHi": "BS6 संकेतकों पर चालक की कार्रवाई",
+      "topic": "DPF",
+      "topicHi": "DPF",
+      "question": {
+        "en": "When the DPF Clogged indicator appears, which action is included in the module?",
+        "hi": "DPF Clogged indicator आने पर कौन-सी कार्रवाई मॉड्यूल में शामिल है?"
+      },
+      "options": {
+        "en": [
+          "Drive normally on highway, do stationary Regen as applicable, or contact an authorized workshop",
+          "Ignore it",
+          "Add engine oil",
+          "Remove the DPF on the road"
+        ],
+        "hi": [
+          "Highway पर normal drive करें, applicable होने पर stationary Regen करें या authorized workshop से संपर्क करें",
+          "इसे ignore करें",
+          "Engine oil डालें",
+          "Road पर DPF निकाल दें"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "These actions are listed on the driver-action page.",
+        "hi": "स्रोत driver-action page पर ये विकल्प देता है।"
+      },
+      "type": "Scenario",
+      "marks": 5,
+      "sourcePage": 91,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "ACT-02",
+      "module": "BS6 Driver Actions",
+      "moduleHi": "BS6 संकेतकों पर चालक की कार्रवाई",
+      "topic": "SCR",
+      "topicHi": "SCR",
+      "question": {
+        "en": "What does the SCR System Faulty indicator indicate in the module?",
+        "hi": "SCR System Faulty indicator क्या दर्शाता है?"
+      },
+      "options": {
+        "en": [
+          "An electrical/electronic fault in the EGP system",
+          "Low tyre pressure",
+          "Empty fuel tank",
+          "Clock fault"
+        ],
+        "hi": [
+          "EGP system में electrical/electronic fault",
+          "Low tyre pressure",
+          "Empty fuel tank",
+          "Clock fault"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source links the indicator to an electrical/electronic fault in the EGP system.",
+        "hi": "मॉड्यूल इस indicator को EGP system के electrical/electronic fault से जोड़ता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 91,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "ACT-03",
+      "module": "BS6 Driver Actions",
+      "moduleHi": "BS6 संकेतकों पर चालक की कार्रवाई",
+      "topic": "DEF",
+      "topicHi": "DEF",
+      "question": {
+        "en": "At what quantity does the module say the DEF level-low indicator appears?",
+        "hi": "मॉड्यूल के अनुसार DEF level-low indicator किस quantity पर आता है?"
+      },
+      "options": {
+        "en": [
+          "Less than 10 litres",
+          "Less than 50 litres",
+          "More than 10 litres",
+          "Exactly 100 litres"
+        ],
+        "hi": [
+          "10 litres से कम",
+          "50 litres से कम",
+          "10 litres से अधिक",
+          "ठीक 100 litres"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The source states less than 10 litres.",
+        "hi": "स्रोत less than 10 litres बताता है।"
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 91,
+      "difficulty": "Medium",
+      "active": true
+    },
+    {
+      "id": "TS-001",
+      "module": "Tata Samarth",
+      "moduleHi": "टाटा समर्थ",
+      "topic": "Program Purpose",
+      "topicHi": "Program Purpose",
+      "question": {
+        "en": "What does Tata Samarth aim to address for drivers and their families?",
+        "hi": "What does Tata Samarth aim to address for drivers and their families?"
+      },
+      "options": {
+        "en": [
+          "Accident, health insurance, finance and education needs",
+          "Only fuel discounts",
+          "Only vehicle servicing",
+          "Only tyre replacement"
+        ],
+        "hi": [
+          "Accident, health insurance, finance and education needs",
+          "Only fuel discounts",
+          "Only vehicle servicing",
+          "Only tyre replacement"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "The module describes Tata Samarth as addressing accident, health insurance, finance and education needs.",
+        "hi": "The module describes Tata Samarth as addressing accident, health insurance, finance and education needs."
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 19,
+      "difficulty": "Easy",
+      "active": true,
+      "languageNote": "Hindi translation not present in the bilingual bank; English text is used as fallback."
+    },
+    {
+      "id": "TS-002",
+      "module": "Tata Samarth",
+      "moduleHi": "टाटा समर्थ",
+      "topic": "Programs",
+      "topicHi": "Programs",
+      "question": {
+        "en": "How many programs are shown under Tata Samarth?",
+        "hi": "How many programs are shown under Tata Samarth?"
+      },
+      "options": {
+        "en": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ],
+        "hi": [
+          "2",
+          "3",
+          "4",
+          "6"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "The module presents four programs of Tata Samarth.",
+        "hi": "The module presents four programs of Tata Samarth."
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 19,
+      "difficulty": "Easy",
+      "active": true,
+      "languageNote": "Hindi translation not present in the bilingual bank; English text is used as fallback."
+    },
+    {
+      "id": "TS-003",
+      "module": "Tata Samarth",
+      "moduleHi": "टाटा समर्थ",
+      "topic": "Program Identification",
+      "topicHi": "Program Identification",
+      "question": {
+        "en": "Which Tata Samarth program is associated with accident/disability coverage?",
+        "hi": "Which Tata Samarth program is associated with accident/disability coverage?"
+      },
+      "options": {
+        "en": [
+          "Surakshit Samarth",
+          "Swasthya Samarth",
+          "Sampatti Samarth",
+          "Shiksha Saarthi"
+        ],
+        "hi": [
+          "Surakshit Samarth",
+          "Swasthya Samarth",
+          "Sampatti Samarth",
+          "Shiksha Saarthi"
+        ]
+      },
+      "correctAnswer": 0,
+      "explanation": {
+        "en": "Surakshit Samarth is the accident coverage program.",
+        "hi": "Surakshit Samarth is the accident coverage program."
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 19,
+      "difficulty": "Easy",
+      "active": true,
+      "languageNote": "Hindi translation not present in the bilingual bank; English text is used as fallback."
+    },
+    {
+      "id": "TS-004",
+      "module": "Tata Samarth",
+      "moduleHi": "टाटा समर्थ",
+      "topic": "Program Identification",
+      "topicHi": "Program Identification",
+      "question": {
+        "en": "Which Tata Samarth program is the wellness/health program?",
+        "hi": "Which Tata Samarth program is the wellness/health program?"
+      },
+      "options": {
+        "en": [
+          "Surakshit Samarth",
+          "Swasthya Samarth",
+          "Sampatti Samarth",
+          "Shiksha Saarthi"
+        ],
+        "hi": [
+          "Surakshit Samarth",
+          "Swasthya Samarth",
+          "Sampatti Samarth",
+          "Shiksha Saarthi"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "Swasthya Samarth is the wellness program.",
+        "hi": "Swasthya Samarth is the wellness program."
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 19,
+      "difficulty": "Easy",
+      "active": true,
+      "languageNote": "Hindi translation not present in the bilingual bank; English text is used as fallback."
+    },
+    {
+      "id": "TS-005",
+      "module": "Tata Samarth",
+      "moduleHi": "टाटा समर्थ",
+      "topic": "Program Identification",
+      "topicHi": "Program Identification",
+      "question": {
+        "en": "Which Tata Samarth program is associated with finance?",
+        "hi": "Which Tata Samarth program is associated with finance?"
+      },
+      "options": {
+        "en": [
+          "Surakshit Samarth",
+          "Swasthya Samarth",
+          "Sampatti Samarth",
+          "Shiksha Saarthi"
+        ],
+        "hi": [
+          "Surakshit Samarth",
+          "Swasthya Samarth",
+          "Sampatti Samarth",
+          "Shiksha Saarthi"
+        ]
+      },
+      "correctAnswer": 2,
+      "explanation": {
+        "en": "Sampatti Samarth is the finance program.",
+        "hi": "Sampatti Samarth is the finance program."
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 19,
+      "difficulty": "Easy",
+      "active": true,
+      "languageNote": "Hindi translation not present in the bilingual bank; English text is used as fallback."
+    },
+    {
+      "id": "TS-006",
+      "module": "Tata Samarth",
+      "moduleHi": "टाटा समर्थ",
+      "topic": "Program Identification",
+      "topicHi": "Program Identification",
+      "question": {
+        "en": "Which Tata Samarth program is associated with children's education?",
+        "hi": "Which Tata Samarth program is associated with children's education?"
+      },
+      "options": {
+        "en": [
+          "Surakshit Samarth",
+          "Swasthya Samarth",
+          "Sampatti Samarth",
+          "Shiksha Saarthi"
+        ],
+        "hi": [
+          "Surakshit Samarth",
+          "Swasthya Samarth",
+          "Sampatti Samarth",
+          "Shiksha Saarthi"
+        ]
+      },
+      "correctAnswer": 3,
+      "explanation": {
+        "en": "Shiksha Saarthi is the children education program.",
+        "hi": "Shiksha Saarthi is the children education program."
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 19,
+      "difficulty": "Easy",
+      "active": true,
+      "languageNote": "Hindi translation not present in the bilingual bank; English text is used as fallback."
+    },
+    {
+      "id": "TS-007",
+      "module": "Tata Samarth",
+      "moduleHi": "टाटा समर्थ",
+      "topic": "Claim Procedure",
+      "topicHi": "Claim Procedure",
+      "question": {
+        "en": "Within how many days does the module say written intimation should be submitted to Oriental Insurance for the Surakshit Samarth claim?",
+        "hi": "Within how many days does the module say written intimation should be submitted to Oriental Insurance for the Surakshit Samarth claim?"
+      },
+      "options": {
+        "en": [
+          "3 days",
+          "7 days",
+          "14 days",
+          "30 days"
+        ],
+        "hi": [
+          "3 days",
+          "7 days",
+          "14 days",
+          "30 days"
+        ]
+      },
+      "correctAnswer": 1,
+      "explanation": {
+        "en": "The claim-procedure page specifies written intimation within seven days.",
+        "hi": "The claim-procedure page specifies written intimation within seven days."
+      },
+      "type": "MCQ",
+      "marks": 5,
+      "sourcePage": 21,
+      "difficulty": "Medium",
+      "active": true,
+      "languageNote": "Hindi translation not present in the bilingual bank; English text is used as fallback."
+    }
+  ]
+}
