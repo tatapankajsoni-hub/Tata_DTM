@@ -248,7 +248,7 @@ def seed_workshops():
     s=SessionLocal()
     try:
         if s.scalar(select(Workshop.id).limit(1)): return
-        path=Path(__file__).resolve().parent.parent/'seed'/'workshops.csv'
+        path=Path(__file__).resolve().parent/'workshops.csv'
         if not path.exists(): return
         with path.open(newline='',encoding='utf-8-sig') as f:
             for r in csv.DictReader(f):
